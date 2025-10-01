@@ -20,7 +20,7 @@ secret ending
 
 
 
-##CREDITS/ASSETS used
+## CREDITS/ASSETS used
 2D Simple UI Pack: OArielG
 https://oarielg.wordpress.com
 
